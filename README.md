@@ -19,6 +19,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/austin-thambipillai-751209265)
 - 📧 Email: [austinthambipillai@gmail.com](mailto:austinthambipillai@gmail.com)
+- 🚀 Personal portfolio website (Coming soon!)
 
 ---
 
@@ -32,9 +33,6 @@
 
 ### Tools & Platforms
 - GitHub, Linux/Unix, VS Code, Visual Studio, IntelliJ, VirtualBox, RStudio
-
-### Productivity & Suites
-- Microsoft Office, Google Suite
 
 ---
 
