@@ -8,9 +8,9 @@
 
 ## 📍 About Me
 
-- 🏡 From: **Bolton, Ontario** 🇨🇦  
-- 📍 Currently in: **Ottawa, Ontario** 🇨🇦  
-- 🧠 Passionate about problem-solving, digital security, and tech innovation  
+- 🏡 From: **Bolton, Ontario** 
+- 📍 Currently in: **Ottawa, Ontario**
+- 🧠 Passionate about problem-solving, digital security, information technology, and tech innovation  
 - 🛠 Always building, learning, and exploring the next big thing in tech
 
 ---
