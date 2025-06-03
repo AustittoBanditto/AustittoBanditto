@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Austin Thambipillai
+# Hi 👋, I'm Austin Thambipillai
 
 🎓 3rd Year Computer Science Student at Carleton University  
 🔐 Specializing in **Cybersecurity**, Minoring in **Statistics**  
