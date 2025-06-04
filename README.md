@@ -19,7 +19,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/austin-thambipillai-751209265)
 - 📧 Email: [austinthambipillai@gmail.com](mailto:austinthambipillai@gmail.com)
-- 🚀 Personal portfolio website (Coming soon!)
+- 🚀 Personal portfolio website [austittobanditto.github.io](austittobanditto.github.io)
 
 ---
 
@@ -39,7 +39,7 @@
 ## 🔭 What I'm Working On
 
 - 👨‍💻 Academic Projects in **Cybersecurity** and **Data Analysis**
-- 🚀 Personal portfolio website (Coming soon!)
+- 🚀 Personal portfolio website (editing & final touches / improvements)
 - 📚 Learning cloud computing & ethical hacking basics
 
 ---
