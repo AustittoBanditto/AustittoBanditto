@@ -19,7 +19,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/austin-thambipillai-751209265)
 - 📧 Email: [austinthambipillai@gmail.com](mailto:austinthambipillai@gmail.com)
-- 🚀 Personal portfolio website [My Portfolio Website]([austittobanditto.github.io](https://austittobanditto.github.io/MyPortfolioWebsite.github.io/))
+- 🚀 Personal portfolio website [austittobanditto.github.io](https://austittobanditto.github.io/MyPortfolioWebsite.github.io/)
 
 ---
 
