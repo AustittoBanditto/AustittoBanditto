@@ -2,7 +2,7 @@
 
 🎓 3rd Year Computer Science Student at Carleton University  
 🔐 Specializing in **Cybersecurity**, Minoring in **Statistics**  
-📊 Aspiring to make a difference in **Software Engineering**, **Data Analytics**, and **Cybersecurity**
+📊 Aspiring to make a difference in **Cybersecurity**, **Data Analytics**, **Software Engineering**, and more!
 
 ---
 
